@@ -36,8 +36,9 @@ ul{width: 100%;
     display:flex;
     justify-content: center;
 }
-.heroimg{height: 600px;
+img{height: 300px;
     padding:25px;
+    border-radius: 50%;
 }
 /*.content{
     width: 500px;
